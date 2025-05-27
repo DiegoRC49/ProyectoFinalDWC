@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Inventario - TechTienda</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <script src="libs/toastify.min.js"></script>
+  <script type="module" src="js/productos.js" defer></script>
+</head>
+<body>
+  <div class="page-container">
+    <header>
+      <nav class="navbar">
+        <div class="logo">TechTienda</div>
+        <ul class="nav-links">
+          <li><a href="index.html">Inicio</a></li>
+          <li><a href="inventario.html">Inventario</a></li>
+          <li><a href="contacto.html">Contacto</a></li>
+        </ul>
+        <div class="actions">
+  <span id="userName"></span>
+  <a id="carritoBtn" href="carrito.html">Carrito (<span id="carrito-count">0</span>)</a>
+  <a id="loginLink" href="login.html">Login</a>
+</div>
+
+      </nav>
+    </header>
+
+    <main>
+      <h2>Catálogo de Productos</h2>
+      <div id="productos-container" class="productos-grid">
+        <!-- Aquí se renderizarán los productos -->
+      </div>
+    </main>
+
+    <footer>
+  © 2025 TechTienda. Todos los derechos reservados.
+  <div class="autores">
+    <small>Diego Reatiga Carrasco</small>
+    <small>Luis Enrique Millan Inzunza</small>
+    <small>Carlos Alberto Sánchez Hernández</small>
+    <small>Alan Yahir Loaiza Beltrán</small>
+  </div>
+</footer>
+
+</body>
+
+</html>

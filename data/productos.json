@@ -1,0 +1,284 @@
+[
+  
+  {
+    "id": 1,
+    "nombre": "Audífonos inalámbricos con Noise Cancelling ULT WEAR",
+    "precio": 3999.00,
+    "imagen": "img/a1.jpg",
+    "caracteristicas": [
+      "Cancelación de ruido premium",
+      "Batería de 40 horas",
+      "Bluetooth 5.2",
+      "Control táctil",
+      "Sonido Hi-Res",
+      "Carga rápida",
+      "Ajuste ergonómico"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Xiaomi Smartwatch Redmi Watch 5 Active",
+    "precio": 1799.00,
+    "imagen": "img/a2.jpg",
+    "caracteristicas": [
+      "Pantalla AMOLED 1.45\"",
+      "Más de 100 modos deportivos",
+      "Monitoreo de frecuencia cardíaca",
+      "Batería de 15 días",
+      "Resistente al agua 5ATM",
+      "Notificaciones inteligentes"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Cámara Canon EOS Rebel T100",
+    "precio": 6499.00,
+    "imagen": "img/a3.jpg",
+    "caracteristicas": [
+      "Sensor APS-C 18MP",
+      "Grabación Full HD",
+      "Wi-Fi y NFC",
+      "Modo Auto inteligente",
+      "Kit con lente 18-55mm",
+      "ISO 100-6400"
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Teclado Gamer Redragon Kumara K552 Qwerty",
+    "precio": 1199.00,
+    "imagen": "img/a4.jpg",
+    "caracteristicas": [
+      "Switches Outemu Red",
+      "Anti-ghosting",
+      "Retroiluminación LED roja",
+      "Diseño compacto",
+      "Cable resistente",
+      "Teclas ABS"
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Mouse gamer Logitech GG Series G502 Hero",
+    "precio": 1599.00,
+    "imagen": "img/a5.jpg",
+    "caracteristicas": [
+      "Sensor HERO 25K",
+      "11 botones programables",
+      "Peso ajustable",
+      "RGB LIGHTSYNC",
+      "1ms report rate",
+      "Diseño ergonómico"
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "Cargador Samsung 25w tipo c pared blanco",
+    "precio": 499.00,
+    "imagen": "img/a6.jpg",
+    "caracteristicas": [
+      "Carga rápida 25W",
+      "USB Tipo-C",
+      "Compatibilidad universal",
+      "Diseño compacto",
+      "Certificado Samsung",
+      "Color blanco"
+    ]
+  },
+  {
+    "id": 7,
+    "nombre": "iPad Pro 11",
+    "precio": 18999.00,
+    "imagen": "img/a7.jpg",
+    "caracteristicas": [
+      "Pantalla Liquid Retina",
+      "Chip M2",
+      "Compatibilidad con Apple Pencil",
+      "USB-C",
+      "Cámara TrueDepth",
+      "Hasta 2TB almacenamiento"
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "Monitor samsung odyssey",
+    "precio": 9999.00,
+    "imagen": "img/a8.jpg",
+    "caracteristicas": [
+      "240Hz de refresco",
+      "Resolución QHD",
+      "Panel VA curvo",
+      "1ms MPRT",
+      "Sync AMD FreeSync",
+      "Diseño gamer"
+    ]
+  },
+  {
+    "id": 9,
+    "nombre": "Bocina Bluetooth JBL Flip 6",
+    "precio": 2599.00,
+    "imagen": "img/a9.jpg",
+    "caracteristicas": [
+      "Sonido JBL Pro",
+      "Resistente IP67",
+      "12 horas de batería",
+      "Party Boost",
+      "Diseño portátil",
+      "Bluetooth 5.1"
+    ]
+  },
+  {
+    "id": 10,
+    "nombre": "SSD Samsung 980 1TB Nvme MZ-V8V",
+    "precio": 2499.00,
+    "imagen": "img/a10.jpg",
+    "caracteristicas": [
+      "1TB capacidad",
+      "Velocidad 3500MB/s",
+      "Factor M.2 2280",
+      "Sin DRAM",
+      "PCIe 3.0",
+      "5 años garantía"
+    ]
+  },
+  {
+    "id": 11,
+    "nombre": "Cámara Web Logitech C920 HD Pro",
+    "precio": 1799.00,
+    "imagen": "img/a11.jpg",
+    "caracteristicas": [
+      "1080p Full HD",
+      "Autoenfoque",
+      "Doble micrófono",
+      "Compatibilidad universal",
+      "Diseño clip",
+      "Iluminación ajustable"
+    ]
+  },
+  {
+    "id": 12,
+    "nombre": "Router Asus gigabit ethernet rog rapture GT-AX11000",
+    "precio": 8999.00,
+    "imagen": "img/a12.jpg",
+    "caracteristicas": [
+      "WiFi 6 11000Mbps",
+      "8 puertos Gigabit",
+      "AiMesh compatible",
+      "Protección de seguridad",
+      "Diseño gamer",
+      "Tri-band"
+    ]
+  },
+  {
+    "id": 13,
+    "nombre": "Batería Portátil 1hora 20000mAh Negro",
+    "precio": 799.00,
+    "imagen": "img/a13.jpg",
+    "caracteristicas": [
+      "20000mAh capacidad",
+      "Carga rápida 18W",
+      "Doble puerto USB",
+      "Indicador LED",
+      "Diseño compacto",
+      "Color negro"
+    ]
+  },
+  {
+    "id": 14,
+    "nombre": "DJI Neo",
+    "precio": 5999.00,
+    "imagen": "img/a14.jpg",
+    "caracteristicas": [
+      "Dron plegable",
+      "Cámara 4K",
+      "Vuelo estable",
+      "Control por app",
+      "Batería de 30min",
+      "Peso ligero"
+    ]
+  },
+  {
+    "id": 15,
+    "nombre": "Razer Iskur V2 X",
+    "precio": 7499.00,
+    "imagen": "img/a15.jpg",
+    "caracteristicas": [
+      "Soporte lumbar ajustable",
+      "Material de malla",
+      "Base robusta",
+      "Inclinación 152°",
+      "Diseño ergonómico",
+      "Peso máximo 136kg"
+    ]
+  },
+  {
+    "id": 16,
+    "nombre": "Apple iPhone 16e",
+    "precio": 19999.00,
+    "imagen": "img/a16.jpg",
+    "caracteristicas": [
+      "Pantalla Super Retina XDR",
+      "Chip A18 Bionic",
+      "Sistema de cámara dual",
+      "5G",
+      "iOS 18",
+      "128GB almacenamiento"
+    ]
+  },
+  {
+    "id": 17,
+    "nombre": "Shure Micrófono SM7dB",
+    "precio": 9999.00,
+    "imagen": "img/a17.jpg",
+    "caracteristicas": [
+      "Respuesta plana",
+      "Preamplificador integrado",
+      "Patrón cardioide",
+      "Suspensión interna",
+      "Escudo anti-viento",
+      "Profesional broadcasting"
+    ]
+  },
+  {
+    "id": 18,
+    "nombre": "Flashforge Adventurer 5M Impresora 3D",
+    "precio": 13999.00,
+    "imagen": "img/a18.jpg",
+    "caracteristicas": [
+      "Tamaño de impresión 200x200x200mm",
+      "Auto-nivelación",
+      "Wi-Fi y USB",
+      "Pantalla táctil",
+      "Filamento compatible",
+      "Diseño cerrado"
+    ]
+  },
+  {
+    "id": 19,
+    "nombre": "Epson Impresora Ecotank L1250",
+    "precio": 5999.00,
+    "imagen": "img/a19.jpg",
+    "caracteristicas": [
+      "Sistema Ecotank",
+      "Impresión sin cartuchos",
+      "Tanques de alta capacidad",
+      "Wi-Fi Direct",
+      "Ahorro de tinta",
+      "Color negro"
+    ]
+  },
+  {
+    "id": 20,
+    "nombre": "Disco Duro Western Digital HC530 14Tb",
+    "precio": 5499.00,
+    "imagen": "img/a20.jpg",
+    "caracteristicas": [
+      "14TB capacidad",
+      "7200 RPM",
+      "Interfaz SATA 6Gb/s",
+      "Caché 256MB",
+      "Para NAS",
+      "5 años garantía"
+    ]
+  }
+]
